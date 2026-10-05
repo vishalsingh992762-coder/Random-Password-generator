@@ -67,4 +67,4 @@ while True:
 
     if again.lower() != "y":
         print("Thank you for using the Password Generator!")
-        breakgi
+        break
